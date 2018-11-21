@@ -1,0 +1,8 @@
+<!doctype>
+<html lang = "pt-br">
+ <head>
+   <title>Cadastro de clientes</title>
+</head>
+<body>
+   <h1>Bem vindo ao projeto jvendas
+</html>
